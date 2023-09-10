@@ -1,1 +1,1 @@
-console.log("Hello, RPGuelike");
+import { canvas, ctx } from "./core/canvas";
