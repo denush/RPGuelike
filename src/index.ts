@@ -1,1 +1,3 @@
-import { canvas, ctx } from "./core/canvas";
+import { loop } from "./core/loop";
+
+loop();
